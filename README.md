@@ -1,3 +1,15 @@
-# Professional README Generator Starter Code
+# ReadMeGenerator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+
+- I was challenged to create a project that dynamically generates a ReadMe file through Node.js
+
+## Credits
+
+Samuel Harper
+
+## License
+
+This project does not contain a license
+
+---
